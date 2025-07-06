@@ -1,0 +1,2 @@
+# langpack
+Language packs
