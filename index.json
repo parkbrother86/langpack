@@ -1,0 +1,130 @@
+[
+  {
+    "id": "bash",
+    "displayName": "Shell Script (Bash)",
+    "version": "0.21.0",
+    "description": "Language pack for Bash shell scripts.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/bash.langpack.zip",
+    "checksum": "66ac2f489e59df9048e8a4f7c9bca0e7dddd0381cc3167bbd89f8a637315f894"
+  },
+  {
+    "id": "c",
+    "displayName": "C",
+    "version": "0.21.0",
+    "description": "Language pack for the C programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/c.langpack.zip",
+    "checksum": "292d43c80556de8084550cd1be7032e51130b0c26d3954cbff5490910e05622c"
+  },
+  {
+    "id": "cpp",
+    "displayName": "C++",
+    "version": "0.21.0",
+    "description": "Language pack for the C++ programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/cpp.langpack.zip",
+    "checksum": "1b3aa4287472ca3ea50175a543df780f6bca3832045fb41f07d1d753793c470a"
+  },
+  {
+    "id": "csharp",
+    "displayName": "C#",
+    "version": "0.20.0",
+    "description": "Language pack for the C# programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/csharp.langpack.zip",
+    "checksum": "d261ec36ed749c71ec727b3dc71aaed066f31eb52a527d130164ee111ed84b45"
+  },
+  {
+    "id": "css",
+    "displayName": "CSS",
+    "version": "0.20.0",
+    "description": "Language pack for Cascading Style Sheets.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/css.langpack.zip",
+    "checksum": "0da2b19a95b3fb7ef4f855a68a58f74e7f967d71ab0cda3282d269d495d86152"
+  },
+  {
+    "id": "go",
+    "displayName": "Go",
+    "version": "0.21.0",
+    "description": "Language pack for the Go programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/go.langpack.zip",
+    "checksum": "e3050fb74d09f6680bd79566c19e991402de92c90852e7486777470819b40ae0"
+  },
+  {
+    "id": "html",
+    "displayName": "HTML",
+    "version": "0.20.1",
+    "description": "Language pack for HyperText Markup Language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/html.langpack.zip",
+    "checksum": "cba1faac1f8af5a6cde4f04e220635ee5444bb80d1ab7cedc2acab3230d02648"
+  },
+  {
+    "id": "java",
+    "displayName": "Java",
+    "version": "0.21.0",
+    "description": "Language pack for the Java programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/java.langpack.zip",
+    "checksum": "7b2ffd51dd7ce9f5702232434b12e08032a928c33d66aee110acc94587e78cfb"
+  },
+  {
+    "id": "javascript",
+    "displayName": "JavaScript",
+    "version": "0.21.0",
+    "description": "Language pack for JavaScript.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/javascript.langpack.zip",
+    "checksum": "bbe95e99ba7307f11a272ab23f03ff8c8609c8a886bf28b18867c6278bb27f9d"
+  },
+  {
+    "id": "jsx",
+    "displayName": "JavaScript (JSX)",
+    "version": "0.21.0",
+    "description": "Language pack for JavaScript with JSX syntax.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/jsx.langpack.zip",
+    "checksum": "fe363356de857d83321e7927cc4138ce616fbbc277ed852280acc3cc260c0336"
+  },
+  {
+    "id": "php",
+    "displayName": "PHP",
+    "version": "0.20.0",
+    "description": "Language pack for PHP.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/php.langpack.zip",
+    "checksum": "130c364f232bd8e57916ec445ec264facbac1bdb65b62ea0ad43b170a9bc6827"
+  },
+  {
+    "id": "python",
+    "displayName": "Python",
+    "version": "0.21.0",
+    "description": "Language pack for the Python programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/python.langpack.zip",
+    "checksum": "6bd23e6e67d14c0a29e08b9172552cbd5a8ac9f00d0952e9c90a3a458a38f369"
+  },
+  {
+    "id": "ruby",
+    "displayName": "Ruby",
+    "version": "0.20.0",
+    "description": "Language pack for the Ruby programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/ruby.langpack.zip",
+    "checksum": "65c3b5e9956789a949ef91d788e94cc20d163d849c624d3d7f39bbd226c95918"
+  },
+  {
+    "id": "rust",
+    "displayName": "Rust",
+    "version": "0.21.0",
+    "description": "Language pack for the Rust programming language.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/rust.langpack.zip",
+    "checksum": "4fa26ba84bb81aaae4027b8a11b620b390aef884faf0b3b5f2854846ea7256c9"
+  },
+  {
+    "id": "tsx",
+    "displayName": "TypeScript (TSX)",
+    "version": "0.23.2",
+    "description": "Language pack for TypeScript with JSX/TSX syntax.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/tsx.langpack.zip",
+    "checksum": "283b6ebdf0c17939d55323502095e2622fa2895a0ddba78714c462631cfc5038"
+  },
+  {
+    "id": "typescript",
+    "displayName": "TypeScript",
+    "version": "0.23.2",
+    "description": "Language pack for TypeScript.",
+    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.0/typescript.langpack.zip",
+    "checksum": "e62ef9a3e5be7be0370cf4ef57d4bf4b459c1cfade32821c117729b91c4cb624"
+  }
+]
