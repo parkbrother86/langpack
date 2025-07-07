@@ -65,19 +65,11 @@
   },
   {
     "id": "javascript",
-    "displayName": "JavaScript",
+    "displayName": "JavaScript/JSX",
     "version": "0.21.0",
-    "description": "Language pack for JavaScript.",
+    "description": "Language pack for JavaScript including JSX syntax support.",
     "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.1/javascript.langpack.zip",
-    "checksum": "85879d7f4637ec1b1ee9b5ce4e86c66684440d5d054df57f387491582b15d164"
-  },
-  {
-    "id": "jsx",
-    "displayName": "JavaScript (JSX)",
-    "version": "0.21.0",
-    "description": "Language pack for JavaScript with JSX syntax.",
-    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.1/jsx.langpack.zip",
-    "checksum": "acad727d872886514593d7c56186cdbd86317ce1e212c20b27bfc081758d35ae"
+    "checksum": "7f1fab609f72902f7042a274ff4d7074347966ea8e6bdf7c5732b1128661c73c"
   },
   {
     "id": "php",
@@ -112,19 +104,10 @@
     "checksum": "aded344d276631da5de4d3ecc370cb92cd312b02bff8f51970e8d0f27be07fbb"
   },
   {
-    "id": "tsx",
-    "displayName": "TypeScript (TSX)",
-    "version": "0.23.2",
-    "description": "Language pack for TypeScript with JSX/TSX syntax.",
-    "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.1/tsx.langpack.zip",
-    "checksum": "c079be04a87d6451ed2216ad67bca8a573b2fc70731e801e46bea4be417ea681"
-  },
-  {
     "id": "typescript",
-    "displayName": "TypeScript",
+    "displayName": "TypeScript/TSX",
     "version": "0.23.2",
-    "description": "Language pack for TypeScript.",
+    "description": "Language pack for TypeScript including TSX/JSX syntax support.",
     "downloadUrl": "https://github.com/parkbrother86/langpack/releases/download/v1.0.1/typescript.langpack.zip",
-    "checksum": "3bb918d72a8df0e7482bdff1d2e27a59ea4cda812c5b703d644c07c5c5953134"
+    "checksum": "602feed6ab4719cc4712a1eb004e4b20d8a774f5e26a174d10d4ef15617a5f67"
   }
-]
